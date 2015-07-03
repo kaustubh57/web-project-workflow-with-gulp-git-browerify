@@ -1,0 +1,15 @@
+{
+  "name": "web-project-workflow-with-gulp-git-browerify",
+  "version": "0.0.1",
+  "description": "A project to showcase web project workflow",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaustubh57/web-project-workflow-with-gulp-git-browerify.git"
+  },
+  "author": "Kaustubh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh57/web-project-workflow-with-gulp-git-browerify/issues"
+  },
+  "homepage": "https://github.com/kaustubh57/web-project-workflow-with-gulp-git-browerify"
+}
