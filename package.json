@@ -11,5 +11,9 @@
   "bugs": {
     "url": "https://github.com/kaustubh57/web-project-workflow-with-gulp-git-browerify/issues"
   },
-  "homepage": "https://github.com/kaustubh57/web-project-workflow-with-gulp-git-browerify"
+  "homepage": "https://github.com/kaustubh57/web-project-workflow-with-gulp-git-browerify",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  }
 }
