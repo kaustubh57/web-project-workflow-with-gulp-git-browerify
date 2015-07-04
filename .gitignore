@@ -20,3 +20,4 @@ vendor/
 logs
 target
 /bin/
+.sass-cache/
